@@ -1,0 +1,4 @@
+What you are seeing now is the result of Java's ability to
+read in a file as a resource. This file is stored in the jar
+by means of Maven's shading plugin. Gradle has a similar
+plugin that creates "shadow" jars instead of shaded jars.
